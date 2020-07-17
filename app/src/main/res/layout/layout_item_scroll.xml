@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="120dp"
+    android:layout_height="50dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:gravity="center"
+        android:id="@+id/tv_right_scroll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="@color/top_tab_color" />
+    <View
+        android:id="@+id/v_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/top_botoom_line"
+        />
+</RelativeLayout>

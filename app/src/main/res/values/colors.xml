@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="top_title_press">#002e4f</color>
+
+    <color name="line_gray">#e2e2e2</color>
+    <color name="top_title_normal">#a0a0a0</color>
+    <color name="top_botoom_line">#0b69a9</color>
+    <color name="left_tag_color">#5d5d5d</color>
+
+    <color name="item_name">#27699e</color>
+</resources>
